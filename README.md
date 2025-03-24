@@ -146,6 +146,10 @@ Large language models may generate outputs that are biased, inappropriate, or ha
 - **Generating offensive or unsafe responses.**
 - **Difficulty in aligning models with ethical standards and human values.**
 
+![Misaligned Behavior](https://github.com/user-attachments/assets/7eb8248d-76ea-4735-a03d-799d4a65f754)
+
+Source: [this link](https://www.cnn.com/2024/10/30/tech/teen-suicide-character-ai-lawsuit/index.html).
+
 ### **12. Outdated Knowledge**
 
 Large language models rely on static training datasets, meaning they often contain information that is outdated or incomplete. This limitation causes:
@@ -165,6 +169,11 @@ Large language models rely on static training datasets, meaning they often conta
 ### **13. Evaluations Based on Static, Human-Written Ground Truth**
 
 Evaluations often depend on human annotations, which can be costly, biased, or may not always accurately reflect reality.
+
+![Approximate Human Annotations Cost](https://github.com/user-attachments/assets/db54534b-b471-45a3-861f-47be6b84d611)
+
+
+Source: [this link](https://aidatalabelers.com/how-much-do-ai-data-annotation-services-cost-in-2025-the-complete-guide/).
 
 ### **14. Indistinguishability between Generated and Human-Written Text**
 
