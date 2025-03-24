@@ -1,12 +1,12 @@
 # Challenges and Applications of Large Language Models
 
 **Authors:**  
-- Jean Kaddour<sup>α, †, ∗</sup>  
-- Joshua Harris<sup>β, ∗</sup>  
+- Jean Kaddour<sup>α, †</sup>  
+- Joshua Harris<sup>β</sup>  
 - Maximilian Mozes<sup>α</sup>  
 - Herbie Bradley<sup>γ, δ, ϵ</sup>  
 - Roberta Raileanu<sup>ζ</sup>  
-- Robert McHardy<sup>η, ∗</sup>
+- Robert McHardy<sup>η</sup>
 
 **Institutions:**  
 - <sup>α</sup> University College London  
