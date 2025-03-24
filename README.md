@@ -119,7 +119,7 @@ Large language models are highly sensitive to small changes in the wording or st
 
   
 > ### **Question1:** Before moving on to the next challenge, consider this: What do you think is the most significant limitation of deep learning models (including LLMs) compared to human cognition?   
-> **Hint:** Think about what humans and LLMs do differently when they encounter something they don't know.\n \n
+> **Hint:** Think about what humans and LLMs do differently when they encounter something they don't know.  
 > **Answer:** The core limitation is that deep learning models lack metacognition—they do not know when they don't know. Unlike humans, who can acknowledge uncertainty and seek additional information or guidance, these models will always produce an output even if it's incorrect, because they don't have a proper mechanism to detect or flag uncertainty.
 
 ### **10. Hallucinations**
