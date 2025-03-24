@@ -118,9 +118,9 @@ Large language models are highly sensitive to small changes in the wording or st
 - **Causes Brittle Evaluations** (Slight modifications of the benchmark prompt or evaluation protocol can give drastically different results.)
 
   
-### **Question1:** Before moving on to the next challenge, consider this: What do you think is the most significant limitation of deep learning models (including LLMs) compared to human cognition?   
-**Hint:** Think about what humans and LLMs do differently when they encounter something they don't know.
-**Answer:** The core limitation is that deep learning models lack metacognition—they do not know when they don't know. Unlike humans, who can acknowledge uncertainty and seek additional information or guidance, these models will always produce an output even if it's incorrect, because they don't have a proper mechanism to detect or flag uncertainty.
+> ### **Question1:** Before moving on to the next challenge, consider this: What do you think is the most significant limitation of deep learning models (including LLMs) compared to human cognition?   
+> **Hint:** Think about what humans and LLMs do differently when they encounter something they don't know.\n \n
+> **Answer:** The core limitation is that deep learning models lack metacognition—they do not know when they don't know. Unlike humans, who can acknowledge uncertainty and seek additional information or guidance, these models will always produce an output even if it's incorrect, because they don't have a proper mechanism to detect or flag uncertainty.
 
 ### **10. Hallucinations**
 
@@ -150,7 +150,7 @@ Large language models rely on static training datasets, meaning they often conta
 - **Frequent need for retraining or updating models to maintain accuracy.**
 
 > ### **Question:** What are some of the approaches currently used to supress the issue of outdated knowledge in large language models without having to retrain or fine tune the models?
-**Answer:** Modern implementations often use retrieval-augmented generation (RAG) techniques, where a language model is combined with a real-time retrieval system to fetch current data. Additionally, integrating direct web search capabilities helps models access up-to-date information, reducing reliance on static training data.
+> **Answer:** Modern implementations often use retrieval-augmented generation (RAG) techniques, where a language model is combined with a real-time retrieval system to fetch current data. Additionally, integrating direct web search capabilities helps models access up-to-date information, reducing reliance on static training data.
 
 ### **13. Evaluations Based on Static, Human-Written Ground Truth**
 
