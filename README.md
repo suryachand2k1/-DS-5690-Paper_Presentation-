@@ -47,3 +47,13 @@ The paper aims to provide a structured overview of the current state of large la
 - Synthetic Data Generation
 
 Overall, the paper emphasizes the need to systematically address the outlined challenges to maximize the beneficial applications of LLM technology.
+
+## Challenges
+
+The challenges associated with Large Language Models (LLMs) are broadly divided into three main categories as previously discussed: **Design Challenges**, **Behavioral Challenges**, and **Scientific Challenges**.
+
+Here is a diagram clearly representing the different challenges within each category:
+![Challenges Diagram](https://github.com/user-attachments/assets/b094513b-f802-4899-8f88-61cf29b006e9)
+
+
+Now, let's dive deeper into each of the individual challenges listed above to gain a better understanding of their implications and complexities.
