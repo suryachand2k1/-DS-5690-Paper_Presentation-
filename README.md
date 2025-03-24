@@ -149,7 +149,7 @@ Large language models rely on static training datasets, meaning they often conta
 - **Reduced usefulness in real-time or dynamic applications.**
 - **Frequent need for retraining or updating models to maintain accuracy.**
 
-### **Question:** What are some of the approaches currently used to supress the issue of outdated knowledge in large language models without having to retrain or fine tune the models?
+> ### **Question:** What are some of the approaches currently used to supress the issue of outdated knowledge in large language models without having to retrain or fine tune the models?
 **Answer:** Modern implementations often use retrieval-augmented generation (RAG) techniques, where a language model is combined with a real-time retrieval system to fetch current data. Additionally, integrating direct web search capabilities helps models access up-to-date information, reducing reliance on static training data.
 
 ### **13. Evaluations Based on Static, Human-Written Ground Truth**
