@@ -1,4 +1,5 @@
 # Challenges and Applications of Large Language Models
+Submitted on 19 Jul 2023
 
 **Authors:**  
 - Jean Kaddour<sup>α, †</sup>  
