@@ -109,13 +109,14 @@ Large language models have restrictions on how much text they can process at onc
 Source: [this link](https://support.netdocuments.com/s/article/Maximum-Length).
 
 
-### **7, 8 and 9. Prompt Brittleness, Lack of Reproducibility and Brittle Evaluations**
+### **7, 8 and 9. Prompt Brittleness,Brittle Evaluations  and Lack of Reproducibility**
 
 Large language models are highly sensitive to small changes in the wording or structure of input prompts. Slight variations in prompts can lead to significantly different outputs, causing problems such as:
 
-- **Inconsistent and unreliable responses.**
-- **Challenges in designing prompts for optimal outcomes and difficulty in reliably reproducing results.**
 - **Causes Brittle Evaluations** (Slight modifications of the benchmark prompt or evaluation protocol can give drastically different results.)
+- **Lack of Reproducibility** (Not just modified prompts but also same prompts result in different results due to the stochasticity of the models)
+
+![Prompt Brittleness](https://github.com/user-attachments/assets/aef0e684-413f-4b3a-bee2-574ae23fff82)
 
   
 > ### **Question1:** Before moving on to the next challenge, consider this: What do you think is the most significant limitation of deep learning models (including LLMs) compared to human cognition?   
@@ -182,6 +183,11 @@ Source: [this link](https://aidatalabelers.com/how-much-do-ai-data-annotation-se
 ### **14. Indistinguishability between Generated and Human-Written Text**
 
 It’s increasingly challenging to differentiate AI-generated text from human-written content, causing verification issues.
+
+![AI Written - 1](https://github.com/user-attachments/assets/eb18396e-3551-4f0f-82de-c93bf70d2eaf)
+
+![AI Written - 2](https://github.com/user-attachments/assets/9d8def8e-a907-48ab-808e-ebd9dee2a41f)
+
 
 ### **15. Tasks Not Solvable By Scale**
 
