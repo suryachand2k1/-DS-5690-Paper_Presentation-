@@ -158,6 +158,10 @@ Large language models rely on static training datasets, meaning they often conta
 - **Reduced usefulness in real-time or dynamic applications.**
 - **Frequent need for retraining or updating models to maintain accuracy.**
 
+![Outdated Knowledge](https://github.com/user-attachments/assets/a69d8711-6b12-48c1-aea8-7e4e9036c1fc)
+
+
+
 > ### **Question:** What are some of the approaches currently used to supress the issue of outdated knowledge in large language models without having to retrain or fine tune the models?
 > \
 > \
