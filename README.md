@@ -16,7 +16,7 @@
 - <sup>ϵ</sup> Stability AI  
 - <sup>ζ</sup> Meta AI Research  
 - <sup>η</sup> InstaDeep
-
+<br>
 ---
 
 ## Overview
@@ -49,7 +49,7 @@ The paper aims to provide a structured overview of the current state of large la
 - Synthetic Data Generation
 
 Overall, the paper emphasizes the need to systematically address the outlined challenges to maximize the beneficial applications of LLM technology.
-
+<br>
 ---
 
 ## RQs Answered
@@ -61,7 +61,7 @@ The paper addresses two main research questions:
 
 2. **Applications and Impact of LLMs:**  
    *In which fields are LLMs effectively applied ?*
-   
+<br> 
 ---
 ## Challenges
 
@@ -83,7 +83,8 @@ Modern large language models are trained on enormous and diverse datasets, which
 - **Optimal data mixtures**: It becomes challenging to determine the best combination of diverse data sources and domain-specific datasets for effective model training and fine-tuning.
 
   ![Pre-Training Datasets](https://github.com/user-attachments/assets/cb301c03-e741-40ce-8f9a-765dfb658f36)
-\
+<br>
+<br>
 
 ### **2. Tokenizer-Reliance**
 
@@ -94,7 +95,8 @@ Tokenizers split text into smaller pieces (tokens) for models to process. Initia
 - **Loss of linguistic nuance after splitting**
   
 ![Tokenization variations](https://github.com/user-attachments/assets/66cd85ed-159b-415a-ae5b-2f4025470e4d)
-\
+<br>
+<br>
 
 ### **3,4 and 5. High Pre-Training, Fine-Tuning, and Inference Costs**
 
