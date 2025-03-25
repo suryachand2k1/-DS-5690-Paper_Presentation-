@@ -48,6 +48,16 @@ The paper aims to provide a structured overview of the current state of large la
 
 Overall, the paper emphasizes the need to systematically address the outlined challenges to maximize the beneficial applications of LLM technology.
 
+## RQs Answered
+
+The paper addresses two main research questions:
+
+1. **Challenges with LLMs:**  
+   *What are the key unresolved technical, practical and scientific problems currently faced by Large Language Models (LLMs)?*
+
+2. **Applications and Impact of LLMs:**  
+   *In which fields are LLMs effectively applied ?*
+
 ## Challenges
 
 The challenges associated with Large Language Models (LLMs) are broadly divided into three main categories as previously discussed: **Design Challenges**, **Behavioral Challenges**, and **Scientific Challenges**.
@@ -196,4 +206,62 @@ Simply increasing model size or data isn't sufficient to address certain new or 
 ### **16. Lacking Experimental Designs**
 
 Papers presenting novel LLMs often lack controlled experiments, likely due to the prohibitive costs of training enough models.
+
+## Applications
+
+![Applications](https://github.com/user-attachments/assets/df381c63-8e88-481f-b5fa-c89a54fb097b)
+
+## Impact of the Paper:
+
+- **For Researchers:**  
+  Provides a structured framework to quickly understand existing gaps, accelerating the identification of novel research questions and directions within the rapidly evolving field of Large Language Models (LLMs).
+
+- **For Practitioners:**  
+  Offers a detailed overview of current LLM capabilities and limitations, supporting more informed decision-making, effective planning, and successful implementation in diverse real-world applications.
+
+- **For Policy Makers:**  
+  Delivers a clear snapshot of the current technological landscape of LLMs, highlighting both capabilities and risks. This enables policymakers to design informed regulatory frameworks, governance strategies, and guidelines for ethical deployment.
+
+- **For Educators:**  
+  Serves as an authoritative resource outlining the state-of-the-art in LLMs, helping educators update curricula, develop new courses, and effectively prepare students for future technology-driven job markets.
+
+- **For Investors:**  
+  Clarifies current application successes and persistent technical challenges, facilitating informed decision-making regarding investment opportunities in AI-driven companies, and providing insights into the long-term sustainability and growth potential within the LLM sector.
+
+
+## Critical Analysis:
+
+- **Strengths:**  
+  The paper is comprehensive, well-structured, and effectively summarizes current knowledge with robust references, making it highly informative.
+
+- **Areas for Improvement:**
+  - **Lack of Examples:**  
+    Several key challenges, such as *Prompt Brittleness, Brittle Evaluations, Lack of Reproducibility, Tasks Not Solvable By Scale,* and *Misaligned Behavior,* lack clear, practical examples. Including these would enhance understanding.
+  - **Redundant Challenges:**  
+    Challenges related to computational constraints—like *High Pre-Training Costs, Fine-Tuning Overhead,* and *Inference Latency*—are explained separately, though they share similar underlying reasons. Combining these would reduce redundancy.
+  - **Repetitive Descriptions:**  
+    Certain challenges are repeatedly explained within application sections. Brief references rather than detailed explanations would improve readability.
+
+## Code Demonstration
+
+<span style="color: red;">Given the nature of the paper, direct code demonstrations are not applicable. However, illustrative examples have been generated to clarify specific challenges, addressing areas where practical demonstrations were initially missing from the paper.</span>
+
+## Resource Links
+
+- **Paper Link:**  
+  [Challenges and Applications of Large Language Models (arXiv)](https://arxiv.org/abs/2307.10169)
+
+- **Additional Information Sources:**  
+  Relevant references and sources are embedded throughout the content where applicable.
+
+- **Author Profiles:**  
+  - [Jean Kaddour](https://scholar.google.com/citations?user=z90bmSMAAAAJ&hl=en&oi=ao)  
+  - [Joshua Harris](https://scholar.google.com/citations?user=iYy1nfkAAAAJ&hl=en&oi=ao)  
+  - [Maximilian Mozes](https://scholar.google.com/citations?user=Zu0rS3oAAAAJ&hl=en&oi=ao)  
+  - [Herbie Bradley](https://scholar.google.com/citations?hl=en&user=oQ0HzPcAAAAJ)  
+  - [Roberta Raileanu](https://scholar.google.com/citations?hl=en&user=462OoekAAAAJ)  
+  - [Robert McHardy](https://scholar.google.com/citations?hl=en&user=k9_1up4AAAAJ)
+
+
+
 
