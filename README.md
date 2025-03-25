@@ -16,7 +16,7 @@
 - <sup>ϵ</sup> Stability AI  
 - <sup>ζ</sup> Meta AI Research  
 - <sup>η</sup> InstaDeep
-<br>
+
 ---
 
 ## Overview
@@ -49,7 +49,6 @@ The paper aims to provide a structured overview of the current state of large la
 - Synthetic Data Generation
 
 Overall, the paper emphasizes the need to systematically address the outlined challenges to maximize the beneficial applications of LLM technology.
-<br>
 ---
 
 ## RQs Answered
@@ -61,7 +60,6 @@ The paper addresses two main research questions:
 
 2. **Applications and Impact of LLMs:**  
    *In which fields are LLMs effectively applied ?*
-<br> 
 ---
 ## Challenges
 
@@ -84,7 +82,6 @@ Modern large language models are trained on enormous and diverse datasets, which
 
   ![Pre-Training Datasets](https://github.com/user-attachments/assets/cb301c03-e741-40ce-8f9a-765dfb658f36)
 <br>
-<br>
 
 ### **2. Tokenizer-Reliance**
 
@@ -96,7 +93,7 @@ Tokenizers split text into smaller pieces (tokens) for models to process. Initia
   
 ![Tokenization variations](https://github.com/user-attachments/assets/66cd85ed-159b-415a-ae5b-2f4025470e4d)
 <br>
-<br>
+
 
 ### **3,4 and 5. High Pre-Training, Fine-Tuning, and Inference Costs**
 
@@ -112,7 +109,7 @@ Large language models require extensive resources at multiple stages: initial tr
 
 
 Source: [this link](https://www.visualcapitalist.com/which-companies-own-the-most-nvidia-h100-gpus/).
-\
+<br>
 
 ### **6. Limited Context Length**
 
@@ -126,7 +123,7 @@ Large language models have restrictions on how much text they can process at onc
 
 
 Source: [this link](https://support.netdocuments.com/s/article/Maximum-Length).
-\
+<br>
 
 ### **7, 8 and 9. Prompt Brittleness,Brittle Evaluations  and Lack of Reproducibility**
 
@@ -136,7 +133,7 @@ Large language models are highly sensitive to small changes in the wording or st
 - **Lack of Reproducibility** (Not just modified prompts but also same prompts result in different results due to the stochasticity of the models)
 
 ![Prompt Brittleness](https://github.com/user-attachments/assets/aef0e684-413f-4b3a-bee2-574ae23fff82)
-\
+<br>
 
 > ### **Question1:** Before moving on to the next challenge, consider this: What do you think is the most significant limitation of deep learning models (including LLMs) compared to human cognition?   
 > **Hint:** Think about what humans and LLMs do differently when they encounter something they don't know.
@@ -146,7 +143,7 @@ Large language models are highly sensitive to small changes in the wording or st
 > \
 > \
 > **Answer:** The core limitation is that deep learning models lack metacognition—they do not know when they don't know. Unlike humans, who can acknowledge uncertainty and seek additional information or guidance, these models will always produce an output even if it's incorrect, because they don't have a proper mechanism to detect or flag uncertainty.
-\
+<br>
 
 ### **10. Hallucinations**
 
@@ -157,7 +154,7 @@ Large language models sometimes generate text that seems plausible but contains 
 - **Increased need for human oversight and verification**.
 
 ![Hallucination](https://github.com/user-attachments/assets/34c7c810-eba5-48aa-946b-08f14543b0a2)
-\
+<br>
 
 ### **11. Misaligned Behavior**
 
@@ -170,7 +167,7 @@ Large language models may generate outputs that are biased, inappropriate, or ha
 ![Misaligned Behavior](https://github.com/user-attachments/assets/7eb8248d-76ea-4735-a03d-799d4a65f754)
 
 Source: [this link](https://www.cnn.com/2024/10/30/tech/teen-suicide-character-ai-lawsuit/index.html).
-\
+<br>
 
 ### **12. Outdated Knowledge**
 
@@ -181,7 +178,7 @@ Large language models rely on static training datasets, meaning they often conta
 - **Frequent need for retraining or updating models to maintain accuracy.**
 
 ![Outdated Knowledge](https://github.com/user-attachments/assets/a69d8711-6b12-48c1-aea8-7e4e9036c1fc)
-\
+<br>
 
 
 > ### **Question:** What are some of the approaches currently used to supress the issue of outdated knowledge in large language models without having to retrain or fine tune the models?
@@ -191,7 +188,7 @@ Large language models rely on static training datasets, meaning they often conta
 > \
 > \
 > **Answer:** Modern implementations often use retrieval-augmented generation (RAG) techniques, where a language model is combined with a real-time retrieval system to fetch current data. Additionally, integrating direct web search capabilities helps models access up-to-date information, reducing reliance on static training data.
-\
+<br>
 
 ### **13. Evaluations Based on Static, Human-Written Ground Truth**
 
@@ -201,7 +198,7 @@ Evaluations often depend on human annotations, which can be costly, biased, or m
 
 
 Source: [this link](https://aidatalabelers.com/how-much-do-ai-data-annotation-services-cost-in-2025-the-complete-guide/).
-\
+<br>
 
 ### **14. Indistinguishability between Generated and Human-Written Text**
 
@@ -211,22 +208,22 @@ It’s increasingly challenging to differentiate AI-generated text from human-wr
 
 ![AI Written - 2](https://github.com/user-attachments/assets/9d8def8e-a907-48ab-808e-ebd9dee2a41f)
 
-\
+<br>
 
 ### **15. Tasks Not Solvable By Scale**
 
 Simply increasing model size or data isn't sufficient to address certain new or complex problems if information about the problems or related problems is missing in the training data.
-\
+<br>
 
 ### **16. Lacking Experimental Designs**
 
 Papers presenting novel LLMs often lack controlled experiments, likely due to the prohibitive costs of training enough models.
-\
+
 ---
 ## Applications
 
 ![Applications](https://github.com/user-attachments/assets/df381c63-8e88-481f-b5fa-c89a54fb097b)
-\
+
 ---
 ## Impact of the Paper:
 
@@ -244,7 +241,7 @@ Papers presenting novel LLMs often lack controlled experiments, likely due to th
 
 - **For Investors:**  
   Clarifies current application successes and persistent technical challenges, facilitating informed decision-making regarding investment opportunities in AI-driven companies, and providing insights into the long-term sustainability and growth potential within the LLM sector.
-\
+
 ---
 ## Critical Analysis:
 
@@ -258,12 +255,12 @@ Papers presenting novel LLMs often lack controlled experiments, likely due to th
     Challenges related to computational constraints—like *High Pre-Training Costs, Fine-Tuning Overhead,* and *Inference Latency*—are explained separately, though they share similar underlying reasons. Combining these would reduce redundancy.
   - **Repetitive Descriptions:**  
     Certain challenges are repeatedly explained within application sections. Brief references rather than detailed explanations would improve readability.
-\
+
 ---
 ## Code Demonstration
 
 <span style="color: red;">Given the nature of the paper, direct code demonstrations are not applicable. However, illustrative examples have been generated to clarify specific challenges, addressing areas where practical demonstrations were initially missing from the paper.</span>
-\
+
 ---
 ## Resource Links
 
