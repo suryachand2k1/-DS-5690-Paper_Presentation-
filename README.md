@@ -17,6 +17,8 @@
 - <sup>ζ</sup> Meta AI Research  
 - <sup>η</sup> InstaDeep
 
+---
+
 ## Overview
 
 The paper aims to provide a structured overview of the current state of large language models (LLMs) by highlighting major unresolved challenges and identifying areas where these models have demonstrated significant success.
