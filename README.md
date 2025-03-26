@@ -101,7 +101,7 @@ Tokenizers split text into smaller pieces (tokens) for models to process. Initia
 Large language models require extensive resources at multiple stages: initial training (pre-training), adapting them to specific tasks (fine-tuning), and generating outputs (inference). This results in:
 
 - **Significant financial and environmental costs** due to heavy computational requirements.
-- **High memory and storage demands** when storing multiple fine-tuned models.
+- **High memory and storage demands** when storing multiple models locally.
 - **Slow inference speeds (latency)** making real-time or resource-constrained applications challenging.
 - **Limited accessibility** for researchers or practitioners without powerful computing resources.
 
