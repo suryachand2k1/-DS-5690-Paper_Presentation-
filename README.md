@@ -118,7 +118,6 @@ Large language models have restrictions on how much text they can process at onc
 
 - **Inability to effectively understand lengthy documents or conversations.**
 - **Reduced performance on tasks like long document summarization or extended dialogue understanding.**
-- **Increased computational costs** when attempting to process longer contexts.
 
 ![Screenshot 2025-03-24 at 5 05 47 PM](https://github.com/user-attachments/assets/e893d252-a985-4b59-abe2-63a22047613d)
 
